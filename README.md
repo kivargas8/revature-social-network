@@ -22,13 +22,16 @@ In this social network, everyone is friends with everyone. As a user, you will b
 
 ## To-Do
 
-* Connecting front-end with the back-end 
-    * javascript
-    * DOM manipulation 
+* Youtube post functionality
+* Making app more user friendly
+
+## Getting Started
+
+Deploy social media application using Amazon EC2, postgreSQL, Spring Boot & Spring Data
 
 ## Usage
 
-A user can create thier account. Users are automatically friends with all other users. A user can see a global feed with other users' posts. 
+A user can create thier account/login. Users are automatically friends with all other users. A user can see a global feed with other users' posts. 
 A user can also post (text, video, image). A user can edit their profile page. 
 
 ## Contributors
@@ -36,6 +39,5 @@ A user can also post (text, video, image). A user can edit their profile page.
 * Christian Castro
 * Colin Modderman
 * Kendrickp Garcia
+* Kimberly Vargas
 
-## Project status
-App is still under development so nothing has been pushed directly to the main branch as of yet. 
